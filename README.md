@@ -6,7 +6,7 @@
 
 **Database:** MySQL
 
-This project demonstrates fundamental SQL skills commonly used in data analytics to explore, clean, and analyze retail sales data. It covers database creation, data cleaning, exploratory data analysis (EDA), and business analysis through SQL queries to generate actionable insights.
+This project demonstrates fundamental SQL skills commonly used in data analytics to explore, clean, and analyze retail sales data. It covers database creation, data cleaning, exploratory data analysis (EDA) and business analysis through SQL queries to generate actionable insights.
 
 The project is designed for beginners who want to strengthen their SQL knowledge and build a practical data analytics portfolio.
 
