@@ -70,7 +70,17 @@ The project includes SQL queries to analyze:
 - Unique customers across categories
 - Sales performance by different time shifts
 
+---
 
+## 🔄 Project Workflow
+
+1. Created the retail sales database in MySQL.
+2. Imported and reviewed the sales dataset.
+3. Identified and handled missing or null values.
+4. Performed Exploratory Data Analysis (EDA).
+5. Used SQL queries to analyze sales, customers, categories, and time-based trends.
+6. Applied aggregate and window functions to generate business insights.
+7. Documented the key findings in the project.
 ## 🚀 Tools Used
 
 - MySQL
