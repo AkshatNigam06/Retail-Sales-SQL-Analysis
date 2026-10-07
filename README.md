@@ -54,7 +54,21 @@ The project is designed for beginners who want to strengthen their SQL knowledge
 - 🕒 Evening hours recorded the highest order volume.
 - 👤 Customer ID 102 recorded the highest total purchase value.
 - 👕 Clothing accounted for the highest transaction volume.
+---
 
+## 🔍 SQL Analysis Performed
+
+The project includes SQL queries to analyze:
+
+- Total sales and total orders
+- Sales performance by product category
+- Average customer age by category
+- High-value transactions
+- Sales by gender and category
+- Monthly sales trends
+- Top 5 customers by total purchase value
+- Unique customers across categories
+- Sales performance by different time shifts
 
 
 ## 🚀 Tools Used
